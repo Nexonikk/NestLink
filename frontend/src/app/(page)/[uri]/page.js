@@ -22,7 +22,7 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import axios from "axios";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/router";
 
 export const buttonsIcons = {
@@ -74,7 +74,9 @@ export default function UserPage({ params }) {
   const { username } = getUsername();
   const { uri: paramUsername } = params;
 
-  const getProfile = async () => {
+  const getProfile = useCallback(async () => {
+    if (!username) return; // Add this check to prevent unnecessary API calls
+
     try {
       setLoading(true);
       const res = await axios.get(`${BACKEND_URL}/profile/getProfile`, {
@@ -90,13 +92,11 @@ export default function UserPage({ params }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [username]); // Add username as a dependency
 
   useEffect(() => {
-    if (username) {
-      getProfile();
-    }
-  }, [username, getProfile]);
+    getProfile();
+  }, [getProfile]); // Now
 
   const ThemeComponent = () => {
     if (themeComponent) {
