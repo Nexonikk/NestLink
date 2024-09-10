@@ -1,3 +1,5 @@
+"use client";
+
 const getUsername = () => {
   let username = localStorage?.getItem("user");
   if (username?.startsWith('"') && username?.endsWith('"')) {
