@@ -96,7 +96,7 @@ export default function UserPage({ params }) {
     if (username) {
       getProfile();
     }
-  }, [username]);
+  }, [username, getProfile]);
 
   const ThemeComponent = () => {
     if (themeComponent) {
