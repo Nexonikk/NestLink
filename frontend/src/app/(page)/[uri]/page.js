@@ -24,6 +24,7 @@ import axios from "axios";
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/router";
+import { id } from "date-fns/locale";
 
 export const buttonsIcons = {
   email: faEnvelope,
@@ -92,7 +93,7 @@ export default function UserPage({ params }) {
     } finally {
       setLoading(false);
     }
-  }, [username]); // Add username as a dependency
+  }, [username, BACKEND_URL]); // Add username as a dependency
 
   useEffect(() => {
     getProfile();
@@ -107,6 +108,7 @@ export default function UserPage({ params }) {
           <div className="flex max-w-xs">
             {gradient.map((c) => (
               <div
+                key={id}
                 className={`h-8 w-8 rounded-full ml-2 mt-2 ${c}`}
                 onClick={() => {
                   localStorage.setItem("theme", c);
