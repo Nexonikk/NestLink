@@ -1,0 +1,1135 @@
+2024-09-06T12:46:41.178Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T12:47:41.370Z [Logs!] error: Error deleting link: 
+Invalid `prisma.links.findUnique()` invocation:
+
+{
+  where: {
+    id: "1"
+        ~~~
+  }
+}
+
+Argument `id`: Invalid value provided. Expected Int, provided String.
+2024-09-06T12:49:04.702Z [Logs!] error: Error deleting link: 
+Invalid `prisma.links.findUnique()` invocation:
+
+{
+  where: {
+    id: "38"
+        ~~~~
+  }
+}
+
+Argument `id`: Invalid value provided. Expected Int, provided String.
+2024-09-06T12:49:11.555Z [Logs!] error: Error deleting link: 
+Invalid `prisma.links.findUnique()` invocation:
+
+{
+  where: {
+    id: "1"
+        ~~~
+  }
+}
+
+Argument `id`: Invalid value provided. Expected Int, provided String.
+2024-09-06T12:50:09.817Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T12:51:14.332Z [Logs!] error: Error deleting link: Link not found
+2024-09-06T12:51:34.350Z [Logs!] error: Error deleting link: Link not found
+2024-09-06T12:51:52.703Z [Logs!] error: Error deleting link: Link not found
+2024-09-06T12:52:30.056Z [Logs!] error: Error deleting link: Link not found
+2024-09-06T12:52:59.503Z [Logs!] error: Error deleting link: Link not found
+2024-09-06T12:53:16.274Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T12:53:40.265Z [Logs!] error: Error deleting link: 
+Invalid `prisma.links.findUnique()` invocation:
+
+{
+  where: {
+    id: "1"
+        ~~~
+  }
+}
+
+Argument `id`: Invalid value provided. Expected Int, provided String.
+2024-09-06T12:54:59.022Z [Logs!] error: Error deleting link: 
+Invalid `prisma.links.findUnique()` invocation:
+
+{
+  where: {
+    id: "1"
+        ~~~
+  }
+}
+
+Argument `id`: Invalid value provided. Expected Int, provided String.
+2024-09-06T12:55:04.997Z [Logs!] error: Error deleting link: 
+Invalid `prisma.links.findUnique()` invocation:
+
+{
+  where: {
+    id: "38"
+        ~~~~
+  }
+}
+
+Argument `id`: Invalid value provided. Expected Int, provided String.
+2024-09-06T12:59:13.262Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T13:19:04.982Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.618Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.638Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.621Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.625Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.680Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.687Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.698Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:05:49.724Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.680Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.726Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.745Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.747Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.817Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.855Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.885Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-06T19:11:03.907Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.648Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.650Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.735Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.757Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.778Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.783Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.785Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T13:38:04.790Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.700Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.825Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.864Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.901Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.914Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.928Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:12.932Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:25:13.058Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:35:43.623Z [Logs!] error: Cannot set headers after they are sent to the client
+2024-09-07T14:35:56.914Z [Logs!] error: Cannot set headers after they are sent to the client
+2024-09-07T14:36:23.329Z [Logs!] error: Cannot set headers after they are sent to the client
+2024-09-07T14:38:34.188Z [Logs!] error: Cannot set headers after they are sent to the client
+2024-09-07T14:39:27.550Z [Logs!] error: Cannot set headers after they are sent to the client
+2024-09-07T14:53:01.504Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:01.527Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:01.565Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:01.550Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:01.642Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:01.696Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:01.867Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:02.077Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T14:53:05.214Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:53:05.247Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:53:15.202Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:53:15.209Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:53:45.467Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:53:45.474Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:12.140Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:12.150Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:27.966Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:27.971Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:40.221Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:40.230Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:42.481Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:54:42.490Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:57:19.002Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:57:19.008Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:57:42.702Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:57:42.710Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:57:54.724Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:58:35.730Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:58:35.740Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:58:50.207Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:58:50.214Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:59:00.435Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:59:00.441Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:59:21.656Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T14:59:21.664Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:00:07.072Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:00:07.086Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:00:44.695Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:00:44.756Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:00:49.723Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:00:49.734Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:01:28.035Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:01:28.044Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    username: undefined,
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   createdAt?: DateTimeFilter | DateTime,
+?   updatedAt?: DateTimeFilter | DateTime,
+?   profile?: ProfileNullableRelationFilter | ProfileWhereInput | Null,
+?   links?: LinksListRelationFilter
+  },
+  include: {
+    profile: true,
+    links: true
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `username` arguments. Available options are marked with ?.
+2024-09-07T15:05:47.730Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:47.816Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:47.820Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:47.962Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:48.037Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:48.042Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:48.137Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T15:05:48.153Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-07T17:08:34.595Z [Logs!] error: Error updating profile: 
+Invalid `prisma.profile.update()` invocation:
+
+{
+  where: {
+    userId: 1
+  },
+  data: {
+    bio: "fbwuefuiwbfwiuf",
+    avatar: "https://res.cloudinary.com/dltfongql/image/upload/v1725720119/sa1szkxtimirs8wqx355.jpg",
+    bgImg: "https://res.cloudinary.com/dltfongql/image/upload/v1725720129/ps6a4sbkbda0mkirov1v.png",
++   location: String
+  }
+}
+
+Argument `location` must not be null.
+2024-09-07T17:09:08.320Z [Logs!] error: Error updating profile: 
+Invalid `prisma.profile.update()` invocation:
+
+{
+  where: {
+    userId: 1
+  },
+  data: {
+    bio: "hihihiehiwfhw",
+    avatar: "https://res.cloudinary.com/dltfongql/image/upload/v1725720119/sa1szkxtimirs8wqx355.jpg",
+    bgImg: "https://res.cloudinary.com/dltfongql/image/upload/v1725720129/ps6a4sbkbda0mkirov1v.png",
++   location: String
+  }
+}
+
+Argument `location` must not be null.
+2024-09-07T17:09:30.354Z [Logs!] error: Error updating profile: 
+Invalid `prisma.profile.update()` invocation:
+
+{
+  where: {
+    userId: 1
+  },
+  data: {
+    bio: "hihihiehiwfhw",
+    avatar: "https://res.cloudinary.com/dltfongql/image/upload/v1725720119/sa1szkxtimirs8wqx355.jpg",
+    bgImg: "https://res.cloudinary.com/dltfongql/image/upload/v1725720129/ps6a4sbkbda0mkirov1v.png",
++   location: String
+  }
+}
+
+Argument `location` must not be null.
+2024-09-08T11:25:09.493Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:25:09.517Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:25:47.745Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:25:47.790Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:26:41.142Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:26:41.156Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:27:05.835Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:27:05.847Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:27:22.175Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T11:27:22.190Z [Logs!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Can't reach database server at `aws-0-ap-south-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-south-1.pooler.supabase.com:6543`.
+2024-09-08T18:14:30.096Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.178Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.194Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.215Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.241Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.240Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.288Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:14:30.343Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:17:57.765Z [Logs!] error: Error creating LInk: 
+Invalid `prisma.links.create()` invocation:
+
+{
+  data: {
+    title: "My Linked",
+    url: "https://www.linkedin.com/in/yusufhameed911/",
+    user: {
+      connect: {
+        id: 1
+      }
+    },
++   icon: String
+  }
+}
+
+Argument `icon` must not be null.
+2024-09-08T18:19:39.320Z [Logs!] error: Error creating LInk: 
+Invalid `prisma.links.create()` invocation:
+
+{
+  data: {
+    title: "My LinkedIn",
+    url: "https://www.linkedin.com/in/yusufhameed911/",
+    user: {
+      connect: {
+        id: 1
+      }
+    },
++   icon: String
+  }
+}
+
+Argument `icon` must not be null.
+2024-09-08T18:22:19.787Z [Logs!] error: Error creating LInk: 
+Invalid `prisma.links.create()` invocation:
+
+{
+  data: {
+    title: "My LinkedIn",
+    url: "https://www.linkedin.com/in/yusufhameed911/",
+    user: {
+      connect: {
+        id: 1
+      }
+    },
++   icon: String
+  }
+}
+
+Argument `icon` must not be null.
+2024-09-08T18:23:27.844Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.862Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.896Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.926Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.910Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.952Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.966Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T18:23:27.991Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.104Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.107Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.137Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.147Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.152Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.164Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.188Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:16:44.217Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.143Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.159Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.210Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.195Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.270Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.287Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.366Z [Logs!] info: Server is running on http://localhost:8000
+2024-09-08T19:21:00.388Z [Logs!] info: Server is running on http://localhost:8000
